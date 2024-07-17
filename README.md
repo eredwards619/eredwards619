@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eredwards619
-- 👀 I’m interested in hydrologic data science
-- 🌱 I’m currently learning R basics.
+- 👀 I’m interested in hydrology and data science
+- 🌱 I’m learning R basics.
 - Have a great day!
 
 <!---
